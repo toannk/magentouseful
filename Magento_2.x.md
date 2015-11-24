@@ -1,1 +1,2 @@
 * [The Ultimate Magento 2 Tutorial] https://firebearstudio.com/blog/the-ultimate-magento-2-tutorial.html
+* [How To Create A Virtual Machine For Magento 2] https://firebearstudio.com/blog/how-to-create-a-virtual-machine-for-magento-2.html
